@@ -17,6 +17,8 @@ sentencia del lenguaje.
 Para esta actividad es importante tener instalado en el ordenador NetBeans que es un entorno de desarrollo integrado libre, 
 hecho principalmente para el lenguaje de programación Java. Existe además un número importante de módulos para extenderlo.
 
+Importante:
+Tener instalado las librerias JCup y JFlex en NetBeans que es un entorno de desarrollo integrado libre, hecho principalmente para el lenguaje de programación Java.
 
 Colaborador:
 Integrante 1: Dulce Bibiana Santiago Nicio
