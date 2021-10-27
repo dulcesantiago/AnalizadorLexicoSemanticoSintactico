@@ -1,4 +1,4 @@
-# AnalizadorLexicoSemanticoSintactico
+# Compilador AnalizadorLexicoSemanticoSintactico
 ==============================================================================
 Actividad en Java de un analizador Léxico, Semántico y Sintáctico
 Dulce Bibiana Santiago Nicio
@@ -7,7 +7,7 @@ Programación Web
 =============================================================================
 
 Descripción:
-La siguiente actividad de análisis léxico-sintáctico tiene por objeto reconocer la forma de las sentencias de un lenguaje.
+La siguiente actividad es un compilador de análisis léxico-sintáctico tiene por objeto reconocer la forma de las sentencias de un lenguaje.
 Reconocer la forma de una sentencia implica reconocer sus lexemas y estructuras sintácticas. El
 resultado del análisis léxico-sintáctico puede ser un error de reconocimiento o una versión de la
 sentencia reconocida.
